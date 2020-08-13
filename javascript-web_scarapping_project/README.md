@@ -43,3 +43,7 @@ ___
 
 Write a script that computes the number of tasks completed by user id.
 ___
+
+Mia L. Morton
+LinkedIn: https://www.linkedin.com/in/mia-l-morton-7133b1139/
+
